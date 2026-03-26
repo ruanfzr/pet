@@ -1,6 +1,7 @@
 Loja Pet e Clínica Veterinária 
 
-Apresentação
+Apresentação:
+
 Este projeto foi desenvolvido para a disciplina de Banco de Dados. O objetivo é gerenciar uma clínica veterinária integrada a um Pet Shop, permitindo o controle de pessoas, animais, atendimentos médicos e vendas.
 
 Estrutura do Repositório
